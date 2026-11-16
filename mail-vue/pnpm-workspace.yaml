@@ -2,3 +2,11 @@ allowBuilds:
   '@parcel/watcher': true
   esbuild: true
   vue-demi: true
+
+packages:
+  - '.'
+
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  vue-demi: true
